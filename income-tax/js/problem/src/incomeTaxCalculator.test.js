@@ -1,4 +1,13 @@
+import computeTax from './incomeTaxCalculator'
 
+test('TODO come up with first test',()=>{
+    // Given
+
+    // When
+
+    // Then
+    expect(false).toBe(true);
+});
 
 // Copyright 2020 Bloomberg Finance L.P.
 //

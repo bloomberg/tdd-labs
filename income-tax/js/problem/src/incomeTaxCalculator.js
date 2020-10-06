@@ -1,4 +1,9 @@
+const standard_allowance = 12500;
 
+function computeTax(income){
+}
+
+export default computeTax;
 
 // Copyright 2020 Bloomberg Finance L.P.
 //
