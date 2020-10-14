@@ -7,7 +7,7 @@ Problems and solutions for TDD labs.
 Currently we have the following labs:
 
 * [test-leapyear](leap-year/README.md) - Leap Year
-* [test-fibonacci](fibonacci/README.md) - Fibonacci Series
+* [test-income-tax](income-tax/README.md) - Income tax calculator
 
 # How To Test-Drive
 
